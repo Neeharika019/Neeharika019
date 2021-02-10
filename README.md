@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! This is Neeharika 👋
 
 <!--
 **Neeharika019/Neeharika019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

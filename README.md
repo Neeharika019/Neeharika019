@@ -1,4 +1,4 @@
-### Hey! This is Neeharika 👋
+
 
 <h1 align="center">Hi 👋, I'm Neeharika</h1>
 <h3 align="center">BrainStorming - WhiteBoarding and Coding</h3>

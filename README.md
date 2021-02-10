@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neeharika</h1>
-<h3 align="center">BrainStorming - WhiteBoarding and Coding</h3>
+<h3 align="center">BrainStorming, WhiteBoarding and Coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeharika019&label=Profile%20views&color=0e75b6&style=flat" alt="neeharika019" /> </p>
 

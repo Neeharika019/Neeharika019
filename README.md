@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **neeharika019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LKHtan5EoTsmQ_8WjlI7MGR7bFSg6k5y/view?usp=sharing](https://drive.google.com/file/d/1LKHtan5EoTsmQ_8WjlI7MGR7bFSg6k5y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

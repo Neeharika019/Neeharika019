@@ -1,9 +1,6 @@
 ## Hey 👋, I'm Neeharika!  
   
 
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/Neeharika019" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -41,12 +38,15 @@ I enjoy the fast pace of the emerging and changing tech everyday and complacentl
   
 
 - 📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/1LKHtan5EoTsmQ_8WjlI7MGR7bFSg6k5y/view?usp=sharing)  
+  
+
+- 📩 Reach me at : neeharika019@gmail.com  
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.gifer.com/Bm7L.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -105,7 +105,3 @@ I enjoy the fast pace of the emerging and changing tech everyday and complacentl
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-

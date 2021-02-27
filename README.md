@@ -34,16 +34,16 @@
  
   
 
-- 🌱 I’m currently learning React.Js and AWS  
+🌱 I’m currently learning React.Js and AWS  
   
 
-- ❓ Ask me about anything related to Markup Languages and WebDev.  
+❓ Ask me about anything related to Markup Languages and WebDev.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+⚡ Fun fact: I use tabs over spaces  
 
 
-- 📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/1LKHtan5EoTsmQ_8WjlI7MGR7bFSg6k5y/view?usp=sharing) 
+📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/1LKHtan5EoTsmQ_8WjlI7MGR7bFSg6k5y/view?usp=sharing) 
   
 
 <br/>  

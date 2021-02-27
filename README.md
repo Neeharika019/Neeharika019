@@ -29,22 +29,10 @@
 🎓 I’m an Open Source Enthusiast & a Junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍ I am passionate about  Web Dev,  DevOps & I enjoy learning new things. </br>
 💻 I enjoy the fast pace of the emerging and changing tech everyday and complacently have fun in playing around code and build projects. </br> 
-  
-
- 
-  
-
-🌱 I’m currently learning React.Js and AWS  
-  
-
-❓ Ask me about anything related to Markup Languages and WebDev.  
-  
-
-⚡ Fun fact: I use tabs over spaces  
-
-
+🌱 I’m currently learning React.Js and AWS  </br> 
+❓ Ask me about anything related to Markup Languages and WebDev.</br> 
+⚡ Fun fact: I use tabs over spaces </br> 
 📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/1LKHtan5EoTsmQ_8WjlI7MGR7bFSg6k5y/view?usp=sharing) 
-  
 
 <br/>  
 

@@ -1,4 +1,6 @@
-## Hey 👋, I'm Neeharika!  
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Neeharika!](https://github.com/Neeharika019) 
+
+ 
  
 <div align="left">
 
@@ -28,7 +30,8 @@
 ### <BrainStorming - WhiteBoarding and Coding!/>  
 🎓 I’m an Open Source Enthusiast & a Junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍ I am passionate about  WebDev,  DevOps & I enjoy learning new things. </br>
-💻 I enjoy the fast pace of the emerging and changing tech everyday and complacently have fun in playing around code and building projects. </br> 
+💻 I enjoy the fast pace of the emerging and changing tech everyday and complacently have fun in playing around code and
+building projects. </br> 
 🌱 I’m currently learning React.JS and AWS  </br> 
 ❓ Ask me about anything related to Markup Languages and WebDev.</br> 
 ⚡ Fun fact: I use tabs over spaces </br> 

@@ -31,7 +31,7 @@ building projects. </br>
 🌱 I’m currently learning React.JS and AWS  </br> 
 ❓ Ask me about anything related to Markup Languages and WebDev.</br> 
 ⚡ Fun fact: I use tabs over spaces </br> 
-📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/1QU9-oJYO_8lmAo9X0ovtDkJeoa8qGSrJ/view?usp=sharing) 
+📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/1URd_gvNS4ebtDstdiEHtYOkBH2F28qXY/view?usp=sharing) 
 
 <br/>  
 

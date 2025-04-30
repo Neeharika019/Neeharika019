@@ -24,14 +24,13 @@
 </div>  
  
 ### <BrainStorming - WhiteBoarding and Coding!/>  
-🎓 I’m an Open Source Enthusiast & a Junior pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m a Full Stack and Cloud Enthusiast & CS Grad pursuing my Masters in Computer Science & Engineering for UT Arlington </br>
 👨‍ I am passionate about  WebDev,  DevOps & I enjoy learning new things. </br>
 💻 I enjoy the fast pace of the emerging and changing tech everyday and complacently have fun in playing around code and
 building projects. </br> 
-🌱 I’m currently learning React.JS and AWS  </br> 
+🌱 I’m currently learning Not to Panic on Prod Issues and AI/ML  </br> 
 ❓ Ask me about anything related to Markup Languages and WebDev.</br> 
-⚡ Fun fact: I use tabs over spaces </br> 
-📃 My Resume : [Neeharika_Resume](https://drive.google.com/file/d/15TsLqm33tG9EzT-5cGQjbl_ZcFoB5aAz/view?usp=drivesdk ) 
+⚡ Fun fact: I just sneed to panic First, I'll figure out the Solution anyway! </br> 
 
 <br/>  
 
